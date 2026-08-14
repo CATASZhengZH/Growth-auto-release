@@ -1,0 +1,19 @@
+{
+  "image": "sample02_curved.jpg",
+  "status": "ok",
+  "class_name": "Fruit stalk",
+  "confidence": 0.9214745759963989,
+  "mask_area_px2": 89559.0,
+  "axis_length_px": 610.0847163395518,
+  "angle_from_horizontal_deg": 77.33576458218312,
+  "angle_from_vertical_deg": 12.664235417816881,
+  "signed_angle_from_vertical_deg": -12.664235417816881,
+  "growth_side": "left",
+  "axis_method": "growth-auto",
+  "fruit_prior": "yes",
+  "fruit_prior_source": "large_sam_bunch",
+  "mask_output": "demo/results/sample02_curved_mask.png",
+  "prior_output": "demo/results/sample02_curved_fruit_prior.png",
+  "optimization_output": "demo/results/sample02_curved_growth_auto.png",
+  "visualization_output": "demo/results/sample02_curved_visualization.png"
+}

@@ -1,0 +1,19 @@
+{
+  "image": "sample04_complex_background.jpg",
+  "status": "ok",
+  "class_name": "Fruit stalk",
+  "confidence": 0.9038026332855225,
+  "mask_area_px2": 142744.0,
+  "axis_length_px": 1226.1528449831594,
+  "angle_from_horizontal_deg": 71.03203937145408,
+  "angle_from_vertical_deg": 18.967960628545928,
+  "signed_angle_from_vertical_deg": -18.967960628545928,
+  "growth_side": "left",
+  "axis_method": "growth-auto",
+  "fruit_prior": "yes",
+  "fruit_prior_source": "large_sam_bunch",
+  "mask_output": "demo/results/sample04_complex_background_mask.png",
+  "prior_output": "demo/results/sample04_complex_background_fruit_prior.png",
+  "optimization_output": "demo/results/sample04_complex_background_growth_auto.png",
+  "visualization_output": "demo/results/sample04_complex_background_visualization.png"
+}

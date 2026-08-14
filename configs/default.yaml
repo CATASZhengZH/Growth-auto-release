@@ -1,0 +1,7 @@
+# Frozen configuration used for the paper's Growth-auto posture evaluation.
+device: 0
+confidence: 0.25
+grounding_threshold: 0.18
+sam_model: sam2.1_t.pt
+extend_ratio: 0.30
+allow_large_sam_prior: true

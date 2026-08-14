@@ -1,0 +1,14 @@
+LICENSE DECISION PENDING
+
+This release workspace is a pre-publication draft. No project-level license is
+granted by this placeholder file.
+
+Before publication, the copyright holder or authorized institution must replace
+this file with the approved license. The current implementation depends on
+Ultralytics code and a model checkpoint carrying AGPL-3.0 metadata. Under the
+current dependency model, AGPL-3.0 is the conservative open-source option unless
+an applicable Ultralytics enterprise license or other written permission is
+confirmed.
+
+See `docs/LICENSE_REVIEW.md` and `THIRD_PARTY_NOTICES.md` for the technical
+dependency review and the remaining human decisions.
