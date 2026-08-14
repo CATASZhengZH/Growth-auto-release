@@ -139,11 +139,12 @@ the applicable data-use and ownership conditions.
 
 ## License
 
-The final repository license is pending author/institutional confirmation.
-Ultralytics code and models are distributed under AGPL-3.0 unless an applicable
-enterprise license is held. Do not publish this draft workspace until the
-root `LICENSE` is replaced with the approved final license. See the external
-release audit and [docs/LICENSE_REVIEW.md](docs/LICENSE_REVIEW.md) for details.
+This repository is released for academic research purposes.
+
+The included code follows the licenses of the corresponding third-party
+dependencies, including Ultralytics, PyTorch, GroundingDINO, and SAM/SAM2.
+
+Please refer to `THIRD_PARTY_NOTICES.md` for detailed dependency licenses.
 
 ## Citation
 
